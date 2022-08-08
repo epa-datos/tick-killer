@@ -1,1 +1,1 @@
-"""Unit test package for personal_killer_tick."""
+"""Unit test package for killer_tick."""
