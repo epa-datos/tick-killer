@@ -106,3 +106,5 @@ ENV/
 
 # Data
 *.csv
+.creds/credentials.json
+.creds/token.json
